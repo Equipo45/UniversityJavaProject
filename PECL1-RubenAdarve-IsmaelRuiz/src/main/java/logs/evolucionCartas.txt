@@ -1,0 +1,400 @@
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona221 deja la carta Persona221-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona187 deja la carta Persona187-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona319 deja la carta Persona319-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona269 deja la carta Persona269-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona263 deja la carta Persona263-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona340 deja la carta Persona340-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona234 deja la carta Persona234-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona132 deja la carta Persona132-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona147 deja la carta Persona147-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona221-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona221-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona319-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona137 deja la carta Persona137-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona187-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona396 deja la carta Persona396-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona184 deja la carta Persona184-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona165 deja la carta Persona165-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona93 deja la carta Persona93-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona272 deja la carta Persona272-C1 en el buzon.
+nov 26, 2022 2:12:05 P. M. Codigo.LoggerUtils log
+INFO: Persona105 deja la carta Persona105-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona259 deja la carta Persona259-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona263-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona269-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona171 deja la carta Persona171-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona18 deja la carta Persona18-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona51 deja la carta Persona51-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona387 deja la carta Persona387-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona319-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona226 deja la carta Persona226-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona65 deja la carta Persona65-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona373 deja la carta Persona373-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona113 deja la carta Persona113-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona66 deja la carta Persona66-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona224 deja la carta Persona224-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona340-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona252 deja la carta Persona252-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona67 deja la carta Persona67-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona187-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona128 deja la carta Persona128-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona274 deja la carta Persona274-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona164 deja la carta Persona164-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona321 deja la carta Persona321-C1 en el buzon.
+nov 26, 2022 2:12:06 P. M. Codigo.LoggerUtils log
+INFO: Persona92 deja la carta Persona92-C1 en el buzon.
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Persona156 deja la carta Persona156-C1 en el buzon.
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona263-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Persona346 deja la carta Persona346-C1 en el buzon.
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Persona104 deja la carta Persona104-C1 en el buzon.
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona234-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Persona178 deja la carta Persona178-C1 en el buzon.
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona269-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:07 P. M. Codigo.LoggerUtils log
+INFO: Persona247 deja la carta Persona247-C1 en el buzon.
+nov 26, 2022 2:12:08 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona132-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:08 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:08 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona340-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:08 P. M. Codigo.LoggerUtils log
+INFO: Persona197 deja la carta Persona197-C1 en el buzon.
+nov 26, 2022 2:12:08 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona147-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona137-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona234-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: Persona30 deja la carta Persona30-C1 en el buzon.
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona132-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: Persona384 deja la carta Persona384-C1 en el buzon.
+nov 26, 2022 2:12:09 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona396-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona184-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona147-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: Persona268 deja la carta Persona268-C1 en el buzon.
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona165-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona137-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:10 P. M. Codigo.LoggerUtils log
+INFO: Persona220 deja la carta Persona220-C1 en el buzon.
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona396-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Persona75 deja la carta Persona75-C1 en el buzon.
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona93-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona184-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Persona158 deja la carta Persona158-C1 en el buzon.
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona272-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona165-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:11 P. M. Codigo.LoggerUtils log
+INFO: Persona114 deja la carta Persona114-C1 en el buzon.
+nov 26, 2022 2:12:12 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona105-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:12 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:12 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona93-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:12 P. M. Codigo.LoggerUtils log
+INFO: Persona229 deja la carta Persona229-C1 en el buzon.
+nov 26, 2022 2:12:12 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona259-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:12 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona171-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:13 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:13 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona272-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:13 P. M. Codigo.LoggerUtils log
+INFO: Persona188 deja la carta Persona188-C1 en el buzon.
+nov 26, 2022 2:12:13 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona18-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:13 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:13 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona105-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:13 P. M. Codigo.LoggerUtils log
+INFO: Persona381 deja la carta Persona381-C1 en el buzon.
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona259-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: Persona400 deja la carta Persona400-C1 en el buzon.
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona51-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona171-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: Persona236 deja la carta Persona236-C1 en el buzon.
+nov 26, 2022 2:12:14 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona387-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona18-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: Persona329 deja la carta Persona329-C1 en el buzon.
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona226-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona65-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona51-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:15 P. M. Codigo.LoggerUtils log
+INFO: Persona73 deja la carta Persona73-C1 en el buzon.
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona373-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona387-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: Persona322 deja la carta Persona322-C1 en el buzon.
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona226-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: Persona330 deja la carta Persona330-C1 en el buzon.
+nov 26, 2022 2:12:16 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona113-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:17 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona66-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:17 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:17 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona65-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:17 P. M. Codigo.LoggerUtils log
+INFO: Persona140 deja la carta Persona140-C1 en el buzon.
+nov 26, 2022 2:12:17 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona224-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:17 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:17 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona373-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:18 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:18 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona113-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:19 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:19 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona66-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:19 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:19 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona224-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:20 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Persona347 deja la carta Persona347-C1 en el buzon.
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Persona93 deja la carta Persona93-C2 en el buzon.
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Persona25 deja la carta Persona25-C1 en el buzon.
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Persona298 deja la carta Persona298-C1 en el buzon.
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Persona186 deja la carta Persona186-C1 en el buzon.
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona67-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona67-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona252-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:23 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona128-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona164-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona274-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona252-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: Persona115 deja la carta Persona115-C1 en el buzon.
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona128-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:24 P. M. Codigo.LoggerUtils log
+INFO: Persona192 deja la carta Persona192-C1 en el buzon.
+nov 26, 2022 2:12:25 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona321-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:25 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:25 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona164-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:25 P. M. Codigo.LoggerUtils log
+INFO: Persona19 deja la carta Persona19-C1 en el buzon.
+nov 26, 2022 2:12:25 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 coge la carta Persona92-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona274-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: Persona206 deja la carta Persona206-C1 en el buzon.
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona156-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona321-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: Persona52 deja la carta Persona52-C1 en el buzon.
+nov 26, 2022 2:12:26 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona346-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:27 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona104-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:27 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:27 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona92-C1/ ha sido depositada por /Empleado1/ en furgoneta 1
+nov 26, 2022 2:12:27 P. M. Codigo.LoggerUtils log
+INFO: Persona307 deja la carta Persona307-C1 en el buzon.
+nov 26, 2022 2:12:27 P. M. Codigo.LoggerUtils log
+INFO: Empleado1 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:27 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona156-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:27 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 coge la carta Persona178-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:28 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:28 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona346-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:28 P. M. Codigo.LoggerUtils log
+INFO: Persona332 deja la carta Persona332-C1 en el buzon.
+nov 26, 2022 2:12:28 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:28 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona104-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:28 P. M. Codigo.LoggerUtils log
+INFO: Persona101 deja la carta Persona101-C1 en el buzon.
+nov 26, 2022 2:12:28 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona247-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:29 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona197-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:29 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:29 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona178-C1/ ha sido depositada por /Empleado2/ en furgoneta 1
+nov 26, 2022 2:12:29 P. M. Codigo.LoggerUtils log
+INFO: Persona24 deja la carta Persona24-C1 en el buzon.
+nov 26, 2022 2:12:30 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 coge la carta Persona30-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:30 P. M. Codigo.LoggerUtils log
+INFO: Empleado2 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:30 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona247-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:30 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:30 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona197-C1/ ha sido depositada por /Empleado5/ en furgoneta 1
+nov 26, 2022 2:12:30 P. M. Codigo.LoggerUtils log
+INFO: Persona206 deja la carta Persona206-C2 en el buzon.
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: Empleado3 coge la carta Persona384-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona30-C1/ ha sido depositada por /Empleado4/ en furgoneta 1
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: Persona248 deja la carta Persona248-C1 en el buzon.
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: Empleado5 coge la carta Persona268-C1 y va a depositarla en la furgoneta 1
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: Empleado4 ha vuelto de la - furgoneta 1
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: La carta/Persona384-C1/ ha sido depositada por /Empleado3/ en furgoneta 1
+nov 26, 2022 2:12:31 P. M. Codigo.LoggerUtils log
+INFO: Persona244 deja la carta Persona244-C1 en el buzon.
